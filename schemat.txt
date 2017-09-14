@@ -1,0 +1,25 @@
+﻿JSON w bazie danych PostgreSQL
+(JSON in PostgreSQL database)
+Opis:
+Praca ma na celu zaprezentowanie możliwości wykorzystania formatu JSON w najnowszych edycjach bazy danych PostgreSQL wraz z próbą porównania wydajności dostarczonych narzędzi z wybranymi bazami danych typu NoSQL
+
+Teoria
+1. json
+- omówienie
+- przykład 
+- wykorzystanie
+- porownanie z xml
+2. sql/no sql
+
+
+3. JSON w postgresql
+- json/jsob
+- operatory
+- funkcje tworzące
+- funkcje przetwarzające
+
+4. mongodb 
+5. couchbase
+(6. couchdb)
+7. porównanie (wykresy)
+

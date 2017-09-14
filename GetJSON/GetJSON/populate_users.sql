@@ -1,0 +1,7 @@
+INSERT INTO Users (username, password, mail, Name, Surname, town, gender, country) VALUES ('testuser', 'asadasfas3421f', 'aaa@hotmail.com', 'Alan', 'Walker', 'Washington','M', 'USA');
+INSERT INTO Users (username, password, mail, Name, Surname, town, gender, country) VALUES ('tuser', 'asad123asfas3421f', 'aa2111a@hotmail.com', 'Alice', 'Lamar', 'New York','F', 'USA');
+INSERT INTO Users (username, password, mail, Name, Surname, town, gender, country) VALUES ('AlaLala', 'asadas1423fas3421f', 'abbbaa@hotmail.com', 'Ala', 'Switch', 'New Orlean','F', 'USA');
+INSERT INTO Users (username, password, mail, Name, Surname, town, gender, country) VALUES ('Gary123', 'asa12d123asdasfas3421f', 'zasabaa@hotmail.com', 'Gary', 'Granger', 'Tokyo','M', 'Japan');
+INSERT INTO Users (username, password, mail, Name, Surname, town, gender, country) VALUES ('Walky', 'a5356sadasfas3421f', 'kaweaaa@hotmail.com', 'Oliver', 'Walker', 'Madrid','M', 'Spain');
+INSERT INTO Users (username, password, mail, Name, Surname, town, gender, country) VALUES ('Jasmin', 'asadasf64as3421f', 'aagdsaa@hotmail.com', 'Jessica', 'Wade', 'Prague','F', 'Czech Republic');
+INSERT INTO Users (username, password, mail, Name, Surname, town, gender, country) VALUES ('BellaM', 'asada6435sfas3421f', 'assdaa@hotmail.com', 'Monica', 'Bella', 'Washington','F', 'USA');

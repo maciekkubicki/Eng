@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<object ID="1232214">
+		<book>
+			<title>Pan Tadeusz</title>
+			<pages>1200</pages>
+			<date />
+			<publisher>PolishPub</publisher>
+			<author>
+				<firstName>Adam</firstName>
+				<lastName>Mickiewicz</lastName>
+			</author>
+		</book>
+		<isAvailable>true</isAvailable>
+		<whoHadIt queue="1">
+			<clientID>1</clientID>
+			<clientName>John</clientName>
+			<clientLastName>Knox</clientLastName>
+			<phoneNumber>608123123</phoneNumber>
+		</whoHadIt>
+		<whoHadIt queue="2">
+			<clientID>12</clientID>
+			<clientName>Ann</clientName>
+			<clientLastName>Snow</clientLastName>
+			<phoneNumber>612123123</phoneNumber>
+		</whoHadIt>
+		<whoHadIt queue="3">
+			<clientID>1112</clientID>
+			<clientName>Gary</clientName>
+			<clientLastName>Cena</clientLastName>
+			<phoneNumber>512123123</phoneNumber>
+		</whoHadIt>
+		<whoHasIt />
+		<timeOfTakig>2016-12-19 22:03:49</timeOfTakig>
+		<timeOfReturning>2016-12-25 12:03:49</timeOfReturning>
+		<location>PolRom3F</location>
+		
+	</object>

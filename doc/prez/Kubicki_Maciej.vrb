@@ -1,0 +1,10 @@
+\subsection{Rozmiar danych}
+\frametitle{Porównanie - rozmiar danych}
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[scale=0.37]{ax/fig7}
+\end{center}
+\caption{Rozmiar danych w poszczególnych bazach}
+\end{figure}
+

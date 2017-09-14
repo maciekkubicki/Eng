@@ -1,0 +1,16 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Cel pracy}{3}{0}{1}
+\beamer@sectionintoc {2}{Dane testowe}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Pierwszy zestaw danych}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{Drugi zestaw danych}{7}{0}{2}
+\beamer@sectionintoc {3}{JSON w PostgreSQL}{8}{0}{3}
+\beamer@subsectionintoc {3}{1}{Operatory}{9}{0}{3}
+\beamer@subsectionintoc {3}{2}{Funkcje przetwarzaj\IeC {\k a}ce}{10}{0}{3}
+\beamer@subsectionintoc {3}{3}{Funkcje tworz\IeC {\k a}ce}{11}{0}{3}
+\beamer@subsectionintoc {3}{4}{Indeksy}{12}{0}{3}
+\beamer@sectionintoc {4}{Por\IeC {\'o}wnanie obs\IeC {\l }ugi JSON w PostgreSQL z rozwi\IeC {\k a}zaniami NoSQL}{13}{0}{4}
+\beamer@subsectionintoc {4}{1}{Wprowadzanie danych}{13}{0}{4}
+\beamer@subsectionintoc {4}{2}{Przeszukiwanie danych}{14}{0}{4}
+\beamer@subsectionintoc {4}{3}{Modyfikacja danych}{15}{0}{4}
+\beamer@subsectionintoc {4}{4}{Rozmiar danych}{16}{0}{4}
+\beamer@subsectionintoc {4}{5}{Wnioski}{17}{0}{4}

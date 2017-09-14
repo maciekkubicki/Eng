@@ -1,0 +1,7 @@
+C:\Users\MaciekKubicki\Desktop\Praca Inżynierska\Scripts\Scripts\bin\Debug\Scripts.dacpac
+C:\Users\MaciekKubicki\Desktop\Praca Inżynierska\Scripts\Scripts\obj\Debug\Model.xml
+C:\Users\MaciekKubicki\Desktop\Praca Inżynierska\Scripts\Scripts\obj\Debug\refactor.xml
+C:\Users\MaciekKubicki\Desktop\Praca Inżynierska\Scripts\Scripts\obj\Debug\postdeploy.sql
+C:\Users\MaciekKubicki\Desktop\Praca Inżynierska\Scripts\Scripts\obj\Debug\predeploy.sql
+C:\Users\MaciekKubicki\Desktop\Praca Inżynierska\Scripts\Scripts\obj\Debug\Scripts.dll
+C:\Users\MaciekKubicki\Desktop\Praca Inżynierska\Scripts\Scripts\obj\Debug\Scripts.pdb

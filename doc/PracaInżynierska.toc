@@ -1,0 +1,38 @@
+\contentsline {section}{\numberline {1}Wst\IeC {\k e}p}{5}{section.1}
+\contentsline {subsection}{\numberline {1.1}Wykorzystane oprogramowanie}{5}{subsection.1.1}
+\contentsline {section}{\numberline {2}Format JSON}{6}{section.2}
+\contentsline {subsection}{\numberline {2.1}Sk\IeC {\l }adnia i typy danych JSON-a}{6}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Przyk\IeC {\l }adowy JSON}{7}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Por\IeC {\'o}wnanie z XML-em}{8}{subsection.2.3}
+\contentsline {section}{\numberline {3}Relacyjne i nierelacyjne bazy danych}{9}{section.3}
+\contentsline {subsection}{\numberline {3.1}Relacyjne bazy danych}{9}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Nierelacyjne bazy danych}{11}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Baza klucz-warto\IeC {\'s}\IeC {\'c}}{11}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Baza grafowa}{11}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Baza dokumentowa}{12}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.4}Baza kolumnowa}{12}{subsubsection.3.2.4}
+\contentsline {section}{\numberline {4}PostgreSQL}{13}{section.4}
+\contentsline {subsection}{\numberline {4.1}Funkcjonalno\IeC {\'s}\IeC {\'c}}{13}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Typy json i jsonb}{13}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Dane testowe}{14}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Operatory JSON}{16}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Funkcje przetwarzaj\IeC {\k a}ce dokument JSON}{20}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Funkcje tworz\IeC {\k a}ce dokument JSON}{23}{subsection.4.6}
+\contentsline {subsection}{\numberline {4.7}Tworzenie indeks\IeC {\'o}w w dokumentach JSON}{25}{subsection.4.7}
+\contentsline {section}{\numberline {5}Bazy dokumentowe}{27}{section.5}
+\contentsline {subsection}{\numberline {5.1}Couchbase Server}{27}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}N1QL}{27}{subsubsection.5.1.1}
+\contentsline {subsection}{\numberline {5.2}MongoDB}{29}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Przeszukiwanie kolekcji}{29}{subsubsection.5.2.1}
+\contentsline {subsection}{\numberline {5.3}Por\IeC {\'o}wnanie baz dokumentowych z PostgreSQL-em}{32}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}Wprowadzenie danych}{32}{subsubsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.2}Zapytania nr 1}{32}{subsubsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.3}Zapytania nr 2}{33}{subsubsection.5.3.3}
+\contentsline {subsubsection}{\numberline {5.3.4}Zapytania nr 3}{34}{subsubsection.5.3.4}
+\contentsline {subsubsection}{\numberline {5.3.5}Zapytania nr 4}{34}{subsubsection.5.3.5}
+\contentsline {subsubsection}{\numberline {5.3.6}Zapytania nr 5}{35}{subsubsection.5.3.6}
+\contentsline {subsubsection}{\numberline {5.3.7}Zapytanie nr 6}{36}{subsubsection.5.3.7}
+\contentsline {subsubsection}{\numberline {5.3.8}Rozmiar na dysku}{36}{subsubsection.5.3.8}
+\contentsline {subsubsection}{\numberline {5.3.9}Podsumowanie wydajno\IeC {\'s}ci}{37}{subsubsection.5.3.9}
+\contentsline {subsubsection}{\numberline {5.3.10}Spojrzenie z innej strony}{37}{subsubsection.5.3.10}
+\contentsline {section}{\numberline {6}Bibliografia}{38}{section.6}

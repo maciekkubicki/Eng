@@ -1,0 +1,38 @@
+\BOOKMARK [1][-]{section.1}{Wstep}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Wykorzystane oprogramowanie}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{Format JSON}{}% 3
+\BOOKMARK [2][-]{subsection.2.1}{Sk\233adnia i typy danych JSON-a}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.2}{Przyk\233adowy JSON}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.3}{Por\363wnanie z XML-em}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Relacyjne i nierelacyjne bazy danych}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Relacyjne bazy danych}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Nierelacyjne bazy danych}{section.3}% 9
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Baza klucz-wartosc}{subsection.3.2}% 10
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Baza grafowa}{subsection.3.2}% 11
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Baza dokumentowa}{subsection.3.2}% 12
+\BOOKMARK [3][-]{subsubsection.3.2.4}{Baza kolumnowa}{subsection.3.2}% 13
+\BOOKMARK [1][-]{section.4}{PostgreSQL}{}% 14
+\BOOKMARK [2][-]{subsection.4.1}{Funkcjonalnosc}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.2}{Typy json i jsonb}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.3}{Dane testowe}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.4}{Operatory JSON}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.5}{Funkcje przetwarzajace dokument JSON}{section.4}% 19
+\BOOKMARK [2][-]{subsection.4.6}{Funkcje tworzace dokument JSON}{section.4}% 20
+\BOOKMARK [2][-]{subsection.4.7}{Tworzenie indeks\363w w dokumentach JSON}{section.4}% 21
+\BOOKMARK [1][-]{section.5}{Bazy dokumentowe}{}% 22
+\BOOKMARK [2][-]{subsection.5.1}{Couchbase Server}{section.5}% 23
+\BOOKMARK [3][-]{subsubsection.5.1.1}{N1QL}{subsection.5.1}% 24
+\BOOKMARK [2][-]{subsection.5.2}{MongoDB}{section.5}% 25
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Przeszukiwanie kolekcji}{subsection.5.2}% 26
+\BOOKMARK [2][-]{subsection.5.3}{Por\363wnanie baz dokumentowych z PostgreSQL-em}{section.5}% 27
+\BOOKMARK [3][-]{subsubsection.5.3.1}{Wprowadzenie danych}{subsection.5.3}% 28
+\BOOKMARK [3][-]{subsubsection.5.3.2}{Zapytania nr 1}{subsection.5.3}% 29
+\BOOKMARK [3][-]{subsubsection.5.3.3}{Zapytania nr 2}{subsection.5.3}% 30
+\BOOKMARK [3][-]{subsubsection.5.3.4}{Zapytania nr 3}{subsection.5.3}% 31
+\BOOKMARK [3][-]{subsubsection.5.3.5}{Zapytania nr 4}{subsection.5.3}% 32
+\BOOKMARK [3][-]{subsubsection.5.3.6}{Zapytania nr 5}{subsection.5.3}% 33
+\BOOKMARK [3][-]{subsubsection.5.3.7}{Zapytanie nr 6}{subsection.5.3}% 34
+\BOOKMARK [3][-]{subsubsection.5.3.8}{Rozmiar na dysku}{subsection.5.3}% 35
+\BOOKMARK [3][-]{subsubsection.5.3.9}{Podsumowanie wydajnosci}{subsection.5.3}% 36
+\BOOKMARK [3][-]{subsubsection.5.3.10}{Spojrzenie z innej strony}{subsection.5.3}% 37
+\BOOKMARK [1][-]{section.6}{Bibliografia}{}% 38

@@ -1,0 +1,35 @@
+{
+	"objectID": 1232214,
+	"book": {
+		"title": "Pan Tadeusz",
+		"pages": 1200,
+		"date": null,
+		"publisher": "PolishPub",
+		"author": {
+			"firstName": "Adam",
+			"lastName": "Mickiewicz"
+		}
+	},
+	"isAvailable": true,
+	"whoHadIt": [{
+		"clientID": 1,
+		"clientName": "John",
+		"clientLastName": "Knox",
+		"phoneNumber": "608123123"
+	}, {
+		"clientID": 12,
+		"clientName": "Ann",
+		"clientLastName": "Snow",
+		"phoneNumber": "612123123"
+	}, {
+		"clientID": 1112,
+		"clientName": "Gary",
+		"clientLastName": "Cena",
+		"phoneNumber": "512123123"
+	}],
+	"whoHasIt": null,
+	"timeOfTakig": "2016-12-19 22:03:49",
+	"timeOfReturning": "2016-12-25 12:03:49"
+	"location": "PolRom3F";
+
+}
